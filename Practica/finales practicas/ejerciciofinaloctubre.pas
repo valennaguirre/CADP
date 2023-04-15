@@ -1,6 +1,6 @@
 program EjFinal;
 const 
-    dimF = 10;
+    dimF = 10; // el ejercicio requiere dimF = 100
     ultletra = 'z';
 type 
     subrango = 1..dimF;
